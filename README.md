@@ -1,2 +1,3 @@
 # didactic-octo-guide
-First repo
+"Hello world"
+First repo, hopefully the first of many to come
